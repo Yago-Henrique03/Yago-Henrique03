@@ -19,6 +19,6 @@
   <a href = "mailto:yagohenriquest@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0heNWIE%2BSJKAAccC%2BY%2FFZg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-  ![Snake animation](https://github.com/barolohelio/barolohelio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Yago-Henrique03/Yago-Henrique03/blob/output/github-contribution-grid-snake.svg)
  
 </div>
